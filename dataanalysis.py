@@ -1,6 +1,6 @@
 import pandas as pd
 
-df = pd.read_csv(r"C:\Python Projects\dataAnalysis\dataset_2.csv")
+df = pd.read_csv("dataset_2.csv")
 
 print(df.shape)
 print(df.dtypes)
