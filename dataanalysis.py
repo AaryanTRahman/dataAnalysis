@@ -5,3 +5,5 @@ df = pd.read_csv(r"C:\Python Projects\dataAnalysis\dataset_2.csv")
 print(df.shape)
 print(df.dtypes)
 print(df.describe())
+
+
